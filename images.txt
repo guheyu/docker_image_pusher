@@ -1,1 +1,1 @@
-https://hub.rat.dev
+linuxserver/librespeed
